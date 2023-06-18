@@ -1,4 +1,4 @@
-# Usefull links regarding basic CS concepts, SRE/DevOps approaches, Linux basics and more
+# Useful links regarding basic CS concepts, SRE/DevOps approaches, Linux basics and more
 
 ## About project
 This project started as a private repository of knowledge (aka knowledgebase) with materials, links, videos, and interactive software which I used to learn to prepare for the position of a junior DevOps engineer. I decided to make this repository public due to frequent questions I received on Linkedin and private channels :) about how I prepared and took the position of DevOps. I hope that it will help people who want to progress and learn. 
